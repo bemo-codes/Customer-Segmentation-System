@@ -56,7 +56,6 @@ When plotting $K$ (x-axis) against WCSS (y-axis), the graph forms an arm shape:
 
 ## Project Structure
 
-
 Customer-Segmentation-System/
 │
 ├── CustomerSegmentation.py
